@@ -1,0 +1,135 @@
+{
+  "client_slug": "guzman-gardening",
+  "company_name": "Guzman Gardening & Landscaping International Inc.",
+  "legal_name": "GUZMAN GARDENING AND LANDSCAPING INTERNATIONAL INC.",
+  "business_type": "Gardening and landscaping contractor",
+  "positioning_statement": "Full-service gardening and landscaping for residential, commercial, and estate properties in Palm Beach County.",
+  "primary_audience": [
+    "homeowners",
+    "commercial property managers",
+    "estate property owners"
+  ],
+  "secondary_audience": [
+    "South Florida property owners with larger projects"
+  ],
+  "not_target_audience": [],
+  "domain": "guzgardening.com",
+  "canonical_url": "https://www.guzgardening.com/",
+  "github": {
+    "repository": "",
+    "branch": "main",
+    "site_path": "/"
+  },
+  "google_drive": {
+    "root_folder_id": "",
+    "draft_assets_folder_id": "",
+    "approved_assets_folder_id": "",
+    "reference_materials_folder_id": "",
+    "exported_assets_folder_id": "",
+    "archive_folder_id": "",
+    "prompt_notes_folder_id": "",
+    "sourced_reference_folder_id": ""
+  },
+  "contact": {
+    "phone_display": "(561) 285-7252",
+    "phone_e164": "+15612857252",
+    "email": "guzgardening@gmail.com",
+    "address": "",
+    "hours": []
+  },
+  "service_area": {
+    "primary": [
+      "Palm Beach County, Florida"
+    ],
+    "secondary": [
+      "South Florida by project"
+    ],
+    "excluded_or_by_request": []
+  },
+  "offerings": {
+    "products": [],
+    "services": [
+      "Design and installation",
+      "Lawn and grounds care",
+      "Garden and plant care",
+      "Trees, hedges, and palms",
+      "Synthetic turf and putting greens",
+      "Pavers and travertine",
+      "Decorative rock and stone",
+      "Drainage and irrigation",
+      "Landscape lighting"
+    ],
+    "categories": [
+      "landscaping",
+      "gardening",
+      "lawn care",
+      "hardscape",
+      "irrigation"
+    ]
+  },
+  "seo": {
+    "homepage_title": "Guzman Gardening & Landscaping International Inc. | Landscaping in Palm Beach County",
+    "homepage_description": "Gardening, landscaping, lawn care, turf, palms, pavers, irrigation, drainage, and landscape lighting for homes, businesses, and estates across Palm Beach County. Call or text (561) 285-7252.",
+    "primary_keywords": [
+      "Guzman Gardening",
+      "Palm Beach County landscaping",
+      "landscaping Palm Beach County",
+      "lawn care Palm Beach County",
+      "landscape installation South Florida"
+    ],
+    "future_pages": [
+      "services",
+      "landscape-design-installation",
+      "synthetic-turf-putting-greens",
+      "pavers-travertine",
+      "irrigation-drainage"
+    ]
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "verified_social_links": [],
+    "verified_coordinates": null
+  },
+  "media": {
+    "brand_assets": [
+      "favicon.svg"
+    ],
+    "reference_photos": [],
+    "approved_images": [
+      "images/guzman-gardening-poolside-planting-bed.webp",
+      "images/guzman-gardening-before-backyard-grading.webp",
+      "images/guzman-gardening-after-sod-beds-palms.webp",
+      "images/guzman-gardening-freeform-pool-specimen-palms.webp",
+      "images/guzman-gardening-pool-artificial-turf.webp",
+      "images/guzman-gardening-putting-green-paver-pool-deck.webp",
+      "images/guzman-gardening-bottle-palms-rock-beds.webp",
+      "images/guzman-gardening-poolside-turf-preserve.webp",
+      "images/guzman-gardening-family-backyard-turf-rock-palms.webp",
+      "images/guzman-gardening-equestrian-flower-bed.webp",
+      "images/guzman-gardening-landscape-lighting-night.webp"
+    ],
+    "sourced_candidates": []
+  },
+  "claims": {
+    "approved": [
+      "Company name",
+      "domain",
+      "phone number",
+      "email address"
+    ],
+    "avoid": [
+      "licensed and insured claim until verified",
+      "specific hours until verified",
+      "reviews or ratings until verified",
+      "awards or certifications until verified"
+    ],
+    "needs_confirmation": [
+      "$200 consultation credited toward the job",
+      "Palm Beach County service area",
+      "travel beyond Palm Beach County for larger jobs",
+      "complete service scope",
+      "photo rights and approval",
+      "social profile links"
+    ]
+  }
+}

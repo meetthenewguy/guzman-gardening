@@ -1,0 +1,17 @@
+{
+  "client_slug": "guzman-gardening",
+  "domain": "guzgardening.com",
+  "canonical_url": "https://www.guzgardening.com/",
+  "github_repository": "",
+  "github_branch": "main",
+  "github_site_path": "/",
+  "cname_file_value": "www.guzgardening.com",
+  "namesilo_dns_status": "not configured in this package",
+  "github_pages_status": "not checked",
+  "https_status": "not checked",
+  "sitemap_url": "https://www.guzgardening.com/sitemap.xml",
+  "robots_url": "https://www.guzgardening.com/robots.txt",
+  "last_deployment_commit": "",
+  "last_qa_date": "2026-06-29",
+  "launch_status": "staging"
+}
